@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Tanstack**
 
-- 💬 Ask me about **React, node Gsap**
+- 💬 Ask me about **React, Node Gsap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
