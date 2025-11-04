@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitco&label=Profile%20views&color=0e75b6&style=flat" alt="mohitco" /> </p>
 
-- 🌱 I’m currently learning **Next.js, System Design**
+- 🌱 I’m currently learning **Next.js, System Design,Deployement**
 
 - 💬 Ask me about **React, Node Gsap**
 
